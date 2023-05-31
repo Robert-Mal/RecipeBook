@@ -21,3 +21,7 @@ Osoby interesujące się gotowaniem, które chciałyby, żeby ich przepisy oraz 
 # Dokumentacja
 
 W ./api-doc znajduje się dokumentacja api, w ./server/documentation dokumentacja backendu
+
+# Widoki
+
+https://github.com/Robert-Mal/recipebook/assets/72407184/1223c24d-3ab8-4046-b3b0-5c53f57cb442
